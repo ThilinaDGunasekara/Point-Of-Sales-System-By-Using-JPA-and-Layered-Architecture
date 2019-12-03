@@ -21,7 +21,7 @@ public class JPAUtil {
 
     private  static EntityManagerFactory buildEntityManager(){
 
-        File file = new File("resources/application.properties");
+        File file = new File("layered-pos-hibernate/resources/application.properties");
 
         try {
             FileInputStream fileInputStream = new FileInputStream(file);
