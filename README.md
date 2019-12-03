@@ -75,3 +75,4 @@ This system include 5 interfaces designing and If some one want to get some idea
 License Under the [MIT LICENSE](LICENSE)
 
 Modified-Stainless-steel-Management-System-Layered-Architecture
+# Point-Of-Sales-System-By-Using-JPA-and-Layered-Architecture
